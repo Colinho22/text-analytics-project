@@ -597,7 +597,7 @@ def main():
     logger.info("  - entertainment_processed.csv")
     logger.info("  - combined_dataset.csv (main file)")
 
-    logger.info("\nNext step: Run notebooks/eda.ipynb for detailed analysis")
+    logger.info("\nNext step: Run notebooks/01_dataset_eda.ipynb for detailed analysis")
 
 
 if __name__ == "__main__":
