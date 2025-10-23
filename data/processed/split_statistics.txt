@@ -1,0 +1,42 @@
+============================================================
+DATA SPLIT STATISTICS
+============================================================
+
+Total samples: 80,159
+Training:      56,111 (70.0%)
+Validation:    12,024 (15.0%)
+Test:          12,024 (15.0%)
+
+Number of classes: 7
+Classes: Business, Entertainment, Health, Politics, Science, Sports, Technology
+
+============================================================
+CLASS DISTRIBUTION PER SPLIT
+============================================================
+
+Training Set:
+  Business       :  8,687 (15.48%)
+  Entertainment  : 10,694 (19.06%)
+  Health         :  5,395 ( 9.61%)
+  Politics       :  7,719 (13.76%)
+  Science        :  4,473 ( 7.97%)
+  Sports         :  7,652 (13.64%)
+  Technology     : 11,491 (20.48%)
+
+Validation Set:
+  Business       :  1,862 (15.49%)
+  Entertainment  :  2,292 (19.06%)
+  Health         :  1,156 ( 9.61%)
+  Politics       :  1,654 (13.76%)
+  Science        :    958 ( 7.97%)
+  Sports         :  1,640 (13.64%)
+  Technology     :  2,462 (20.48%)
+
+Test Set:
+  Business       :  1,862 (15.49%)
+  Entertainment  :  2,292 (19.06%)
+  Health         :  1,156 ( 9.61%)
+  Politics       :  1,654 (13.76%)
+  Science        :    958 ( 7.97%)
+  Sports         :  1,640 (13.64%)
+  Technology     :  2,462 (20.48%)

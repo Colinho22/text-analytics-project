@@ -1,0 +1,31 @@
+======================================================================
+DATA SPLITS VERIFICATION REPORT
+======================================================================
+
+SPLIT SIZES
+----------------------------------------------------------------------
+Train:        56,111 samples ( 70.00%)
+Validation:   12,024 samples ( 15.00%)
+Test:         12,024 samples ( 15.00%)
+Total:        80,159 samples (100.00%)
+
+STRATIFICATION
+----------------------------------------------------------------------
+Number of classes: 7
+Maximum distribution difference: 0.004%
+
+DATA LEAKAGE CHECK
+----------------------------------------------------------------------
+Train ∩ Validation:       0 overlapping samples
+Train ∩ Test:             0 overlapping samples
+Validation ∩ Test:        0 overlapping samples
+
+TEXT LENGTH ANALYSIS
+----------------------------------------------------------------------
+Train mean:        117.5 words
+Validation mean:   115.6 words
+Test mean:         117.8 words
+
+======================================================================
+VERIFICATION STATUS: ALL CHECKS PASSED ✅
+======================================================================
