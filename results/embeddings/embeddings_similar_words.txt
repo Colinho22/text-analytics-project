@@ -1,0 +1,432 @@
+============================================================
+SIMILAR WORDS FROM WORD2VEC MODEL
+============================================================
+
+SAMPLE WORD SIMILARITIES
+------------------------------------------------------------
+
+business:
+   1. skill                 (similarity: 0.310)
+   2. biorxiv               (similarity: 0.300)
+   3. doughnut              (similarity: 0.283)
+   4. immune                (similarity: 0.281)
+   5. jagernaut             (similarity: 0.278)
+   6. machiavelli           (similarity: 0.269)
+   7. oscar                 (similarity: 0.265)
+   8. pointing              (similarity: 0.261)
+   9. hidradenitis          (similarity: 0.257)
+  10. saxon                 (similarity: 0.255)
+
+company:
+   1. mullet                (similarity: 0.311)
+   2. custodial             (similarity: 0.281)
+   3. shadea                (similarity: 0.274)
+   4. bribes                (similarity: 0.271)
+   5. mistakenly            (similarity: 0.264)
+   6. lipoproteins          (similarity: 0.262)
+   7. flats                 (similarity: 0.257)
+   8. vaccines              (similarity: 0.255)
+   9. scooter               (similarity: 0.255)
+  10. amorphous             (similarity: 0.254)
+
+market:
+   1. evenly                (similarity: 0.275)
+   2. regulation            (similarity: 0.272)
+   3. plenty                (similarity: 0.268)
+   4. pittsburgh            (similarity: 0.268)
+   5. foliage               (similarity: 0.266)
+   6. spree                 (similarity: 0.258)
+   7. honest                (similarity: 0.258)
+   8. joyful                (similarity: 0.256)
+   9. calculating           (similarity: 0.254)
+  10. spyros                (similarity: 0.253)
+
+movie:
+   1. shandon               (similarity: 0.304)
+   2. wandering             (similarity: 0.301)
+   3. seabed                (similarity: 0.284)
+   4. attaché               (similarity: 0.275)
+   5. impressionist         (similarity: 0.268)
+   6. dados                 (similarity: 0.263)
+   7. affordable            (similarity: 0.261)
+   8. pathogen              (similarity: 0.253)
+   9. validator             (similarity: 0.245)
+  10. survive               (similarity: 0.245)
+
+music:
+   1. pharmacokinetics      (similarity: 0.300)
+   2. highly                (similarity: 0.258)
+   3. absorbers             (similarity: 0.257)
+   4. 14                    (similarity: 0.256)
+   5. opportunities         (similarity: 0.255)
+   6. bayer                 (similarity: 0.254)
+   7. habits                (similarity: 0.253)
+   8. sub                   (similarity: 0.252)
+   9. reincarnated          (similarity: 0.250)
+  10. solembum              (similarity: 0.249)
+
+actor:
+   1. snowden               (similarity: 0.295)
+   2. sims                  (similarity: 0.286)
+   3. moa                   (similarity: 0.258)
+   4. shelf                 (similarity: 0.251)
+   5. headway               (similarity: 0.249)
+   6. buckled               (similarity: 0.246)
+   7. comparisons           (similarity: 0.245)
+   8. clarissa              (similarity: 0.242)
+   9. kammerer              (similarity: 0.241)
+  10. rhodesia              (similarity: 0.240)
+
+health:
+   1. pangborn              (similarity: 0.293)
+   2. crater                (similarity: 0.285)
+   3. npd                   (similarity: 0.278)
+   4. 114                   (similarity: 0.258)
+   5. ebaq                  (similarity: 0.250)
+   6. apis                  (similarity: 0.249)
+   7. underweight           (similarity: 0.242)
+   8. crispus               (similarity: 0.242)
+   9. eqbas                 (similarity: 0.242)
+  10. contrivance           (similarity: 0.242)
+
+medical:
+   1. reveals               (similarity: 0.319)
+   2. crucians              (similarity: 0.277)
+   3. piecewise             (similarity: 0.277)
+   4. witnessed             (similarity: 0.268)
+   5. commissioner          (similarity: 0.260)
+   6. midianites            (similarity: 0.259)
+   7. clubs                 (similarity: 0.259)
+   8. gdpr                  (similarity: 0.252)
+   9. crowdsourcing         (similarity: 0.250)
+  10. kyp                   (similarity: 0.250)
+
+patient:
+   1. 100k                  (similarity: 0.281)
+   2. artifacts             (similarity: 0.275)
+   3. illusions             (similarity: 0.262)
+   4. doge                  (similarity: 0.257)
+   5. stab                  (similarity: 0.253)
+   6. peoples               (similarity: 0.251)
+   7. stalker               (similarity: 0.250)
+   8. murugadoss            (similarity: 0.246)
+   9. movements             (similarity: 0.245)
+  10. 79                    (similarity: 0.244)
+
+election:
+   1. lensed                (similarity: 0.302)
+   2. ambigram              (similarity: 0.274)
+   3. billionaire           (similarity: 0.265)
+   4. leader                (similarity: 0.262)
+   5. valancourt            (similarity: 0.259)
+   6. profound              (similarity: 0.259)
+   7. dictates              (similarity: 0.258)
+   8. lunatic               (similarity: 0.256)
+   9. feist                 (similarity: 0.251)
+  10. confirms              (similarity: 0.244)
+
+president:
+   1. accent                (similarity: 0.329)
+   2. byrne                 (similarity: 0.300)
+   3. futebol               (similarity: 0.299)
+   4. audition              (similarity: 0.289)
+   5. montgomery            (similarity: 0.281)
+   6. renames               (similarity: 0.271)
+   7. positive              (similarity: 0.264)
+   8. trajectories          (similarity: 0.257)
+   9. sorority              (similarity: 0.249)
+  10. coubertin             (similarity: 0.249)
+
+vote:
+   1. thicker               (similarity: 0.274)
+   2. fixated               (similarity: 0.266)
+   3. remedy                (similarity: 0.258)
+   4. willbury              (similarity: 0.253)
+   5. gulch                 (similarity: 0.252)
+   6. incidentally          (similarity: 0.251)
+   7. recite                (similarity: 0.250)
+   8. nfl                   (similarity: 0.250)
+   9. branson               (similarity: 0.247)
+  10. ravinia               (similarity: 0.246)
+
+research:
+   1. brainchild            (similarity: 0.271)
+   2. crest                 (similarity: 0.269)
+   3. trt                   (similarity: 0.253)
+   4. deliverer             (similarity: 0.252)
+   5. floating              (similarity: 0.248)
+   6. chick                 (similarity: 0.244)
+   7. coincidence           (similarity: 0.240)
+   8. ripper                (similarity: 0.240)
+   9. medicines             (similarity: 0.238)
+  10. remaining             (similarity: 0.237)
+
+scientist:
+   1. boyes                 (similarity: 0.292)
+   2. capitalism            (similarity: 0.290)
+   3. yeltsin               (similarity: 0.282)
+   4. benedictine           (similarity: 0.276)
+   5. summarizing           (similarity: 0.263)
+   6. tyrant                (similarity: 0.262)
+   7. pulsars               (similarity: 0.258)
+   8. kurel                 (similarity: 0.258)
+   9. purchaser             (similarity: 0.257)
+  10. refineries            (similarity: 0.255)
+
+study:
+   1. mizuno                (similarity: 0.270)
+   2. 1920                  (similarity: 0.263)
+   3. marvin                (similarity: 0.261)
+   4. stress                (similarity: 0.261)
+   5. pelican               (similarity: 0.257)
+   6. flown                 (similarity: 0.251)
+   7. dissolving            (similarity: 0.248)
+   8. filterbank            (similarity: 0.247)
+   9. noises                (similarity: 0.246)
+  10. leroy                 (similarity: 0.245)
+
+game:
+   1. mayer                 (similarity: 0.301)
+   2. crowdsourcing         (similarity: 0.293)
+   3. pussycat              (similarity: 0.288)
+   4. pairs                 (similarity: 0.266)
+   5. cupola                (similarity: 0.262)
+   6. holomorphic           (similarity: 0.261)
+   7. consultative          (similarity: 0.260)
+   8. conveying             (similarity: 0.257)
+   9. barren                (similarity: 0.254)
+  10. inattention           (similarity: 0.252)
+
+team:
+   1. adapt                 (similarity: 0.279)
+   2. perturb               (similarity: 0.259)
+   3. pus                   (similarity: 0.257)
+   4. seventeenth           (similarity: 0.253)
+   5. fia                   (similarity: 0.250)
+   6. writ                  (similarity: 0.249)
+   7. mask                  (similarity: 0.247)
+   8. ipfr                  (similarity: 0.246)
+   9. langdon               (similarity: 0.244)
+  10. ny                    (similarity: 0.244)
+
+player:
+   1. qaida                 (similarity: 0.261)
+   2. concatenation         (similarity: 0.257)
+   3. ingredient            (similarity: 0.255)
+   4. gyrth                 (similarity: 0.254)
+   5. ruins                 (similarity: 0.254)
+   6. hoc                   (similarity: 0.252)
+   7. figuerola             (similarity: 0.250)
+   8. criminalized          (similarity: 0.248)
+   9. rises                 (similarity: 0.247)
+  10. lucent                (similarity: 0.244)
+
+technology:
+   1. 196                   (similarity: 0.299)
+   2. signatures            (similarity: 0.284)
+   3. 1810                  (similarity: 0.274)
+   4. ye                    (similarity: 0.257)
+   5. kits                  (similarity: 0.257)
+   6. axion                 (similarity: 0.251)
+   7. pinpointing           (similarity: 0.247)
+   8. gc                    (similarity: 0.246)
+   9. federacy              (similarity: 0.243)
+  10. statutory             (similarity: 0.243)
+
+software:
+   1. wooded                (similarity: 0.301)
+   2. resurrects            (similarity: 0.284)
+   3. laws                  (similarity: 0.280)
+   4. sim                   (similarity: 0.274)
+   5. possibilities         (similarity: 0.273)
+   6. mohsin                (similarity: 0.271)
+   7. atlantis              (similarity: 0.265)
+   8. noguchi               (similarity: 0.258)
+   9. certainty             (similarity: 0.258)
+  10. raas                  (similarity: 0.256)
+
+computer:
+   1. moravec               (similarity: 0.281)
+   2. psi                   (similarity: 0.275)
+   3. capitalization        (similarity: 0.269)
+   4. reply                 (similarity: 0.264)
+   5. mcdonnell             (similarity: 0.257)
+   6. bharat                (similarity: 0.256)
+   7. posit                 (similarity: 0.256)
+   8. falsifiability        (similarity: 0.254)
+   9. tuft                  (similarity: 0.253)
+  10. asr                   (similarity: 0.246)
+
+
+============================================================
+CATEGORY SIMILARITIES
+============================================================
+
+
+Business:
+------------------------------------------------------------
+
+  Similar to 'business':
+    skill                 (similarity: 0.310)
+    biorxiv               (similarity: 0.300)
+    doughnut              (similarity: 0.283)
+    immune                (similarity: 0.281)
+    jagernaut             (similarity: 0.278)
+
+  Similar to 'company':
+    mullet                (similarity: 0.311)
+    custodial             (similarity: 0.281)
+    shadea                (similarity: 0.274)
+    bribes                (similarity: 0.271)
+    mistakenly            (similarity: 0.264)
+
+  Similar to 'market':
+    evenly                (similarity: 0.275)
+    regulation            (similarity: 0.272)
+    plenty                (similarity: 0.268)
+    pittsburgh            (similarity: 0.268)
+    foliage               (similarity: 0.266)
+
+Entertainment:
+------------------------------------------------------------
+
+  Similar to 'movie':
+    shandon               (similarity: 0.304)
+    wandering             (similarity: 0.301)
+    seabed                (similarity: 0.284)
+    attaché               (similarity: 0.275)
+    impressionist         (similarity: 0.268)
+
+  Similar to 'music':
+    pharmacokinetics      (similarity: 0.300)
+    highly                (similarity: 0.258)
+    absorbers             (similarity: 0.257)
+    14                    (similarity: 0.256)
+    opportunities         (similarity: 0.255)
+
+  Similar to 'entertainment':
+    twisting              (similarity: 0.318)
+    waiting               (similarity: 0.278)
+    toroca                (similarity: 0.274)
+    autocracy             (similarity: 0.262)
+    mixer                 (similarity: 0.260)
+
+Health:
+------------------------------------------------------------
+
+  Similar to 'health':
+    pangborn              (similarity: 0.293)
+    crater                (similarity: 0.285)
+    npd                   (similarity: 0.278)
+    114                   (similarity: 0.258)
+    ebaq                  (similarity: 0.250)
+
+  Similar to 'medical':
+    reveals               (similarity: 0.319)
+    crucians              (similarity: 0.277)
+    piecewise             (similarity: 0.277)
+    witnessed             (similarity: 0.268)
+    commissioner          (similarity: 0.260)
+
+  Similar to 'disease':
+    symptomatic           (similarity: 0.277)
+    drifting              (similarity: 0.268)
+    afford                (similarity: 0.266)
+    obscuration           (similarity: 0.254)
+    optimize              (similarity: 0.252)
+
+Politics:
+------------------------------------------------------------
+
+  Similar to 'politics':
+    acquisition           (similarity: 0.290)
+    invigorating          (similarity: 0.282)
+    aggregates            (similarity: 0.273)
+    ascendancy            (similarity: 0.273)
+    specify               (similarity: 0.268)
+
+  Similar to 'election':
+    lensed                (similarity: 0.302)
+    ambigram              (similarity: 0.274)
+    billionaire           (similarity: 0.265)
+    leader                (similarity: 0.262)
+    valancourt            (similarity: 0.259)
+
+  Similar to 'government':
+    sidious               (similarity: 0.292)
+    koh                   (similarity: 0.280)
+    amee                  (similarity: 0.274)
+    preach                (similarity: 0.269)
+    fauci                 (similarity: 0.268)
+
+Science:
+------------------------------------------------------------
+
+  Similar to 'science':
+    jittery               (similarity: 0.271)
+    sock                  (similarity: 0.262)
+    dea                   (similarity: 0.261)
+    credits               (similarity: 0.258)
+    nesting               (similarity: 0.251)
+
+  Similar to 'research':
+    brainchild            (similarity: 0.271)
+    crest                 (similarity: 0.269)
+    trt                   (similarity: 0.253)
+    deliverer             (similarity: 0.252)
+    floating              (similarity: 0.248)
+
+  Similar to 'study':
+    mizuno                (similarity: 0.270)
+    1920                  (similarity: 0.263)
+    marvin                (similarity: 0.261)
+    stress                (similarity: 0.261)
+    pelican               (similarity: 0.257)
+
+Sports:
+------------------------------------------------------------
+
+  Similar to 'sports':
+    2017–2019             (similarity: 0.285)
+    phoenix               (similarity: 0.271)
+    gsm                   (similarity: 0.268)
+    nixon                 (similarity: 0.259)
+    ame                   (similarity: 0.258)
+
+  Similar to 'game':
+    mayer                 (similarity: 0.301)
+    crowdsourcing         (similarity: 0.293)
+    pussycat              (similarity: 0.288)
+    pairs                 (similarity: 0.266)
+    cupola                (similarity: 0.262)
+
+  Similar to 'team':
+    adapt                 (similarity: 0.279)
+    perturb               (similarity: 0.259)
+    pus                   (similarity: 0.257)
+    seventeenth           (similarity: 0.253)
+    fia                   (similarity: 0.250)
+
+Technology:
+------------------------------------------------------------
+
+  Similar to 'technology':
+    196                   (similarity: 0.299)
+    signatures            (similarity: 0.284)
+    1810                  (similarity: 0.274)
+    ye                    (similarity: 0.257)
+    kits                  (similarity: 0.257)
+
+  Similar to 'software':
+    wooded                (similarity: 0.301)
+    resurrects            (similarity: 0.284)
+    laws                  (similarity: 0.280)
+    sim                   (similarity: 0.274)
+    possibilities         (similarity: 0.273)
+
+  Similar to 'computer':
+    moravec               (similarity: 0.281)
+    psi                   (similarity: 0.275)
+    capitalization        (similarity: 0.269)
+    reply                 (similarity: 0.264)
+    mcdonnell             (similarity: 0.257)
