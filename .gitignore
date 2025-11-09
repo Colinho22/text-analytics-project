@@ -185,7 +185,7 @@ __marimo__/
 # Data files (common in text analytics projects)
 *.tsv
 *.parquet
-*.pkl
+#*.pkl #pkl files are models which are an integral part and need to be commited
 *.pickle
 
 # Model files and checkpoints
