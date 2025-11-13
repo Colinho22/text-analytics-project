@@ -24,3 +24,6 @@ tensorflow>=2.15.0
 tqdm>=4.66.0
 requests>=2.31.0
 jupyterlab>=4.2.0
+
+#demo
+streamlit>=1.51.0
