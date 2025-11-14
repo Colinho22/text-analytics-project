@@ -25,5 +25,6 @@ tqdm>=4.66.0
 requests>=2.31.0
 jupyterlab>=4.2.0
 
-#demo
+# Demo
 streamlit>=1.51.0
+pdfplumber>=0.11.0
