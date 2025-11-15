@@ -31,6 +31,8 @@ def initialize_session_state():
         st.session_state.correctness_feedback = {}
     if "results_submitted" not in st.session_state:
         st.session_state.results_submitted = False
+    if "file_uploader_key" not in st.session_state:
+        st.session_state.file_uploader_key = 0
 
 
 # reset all session state for new document
@@ -41,6 +43,8 @@ def reset_session():
     st.session_state.classification_results = None
     st.session_state.correctness_feedback = {}
     st.session_state.results_submitted = False
+    # increment key to force file uploader widget to reset
+    st.session_state.file_uploader_key += 1
 
 
 def calculate_rankings(results, correctness):
@@ -105,14 +109,28 @@ def show_test_tab(models):
     uploaded_file = st.file_uploader(
         "Choose a PDF file",
         type=["pdf"],
-        help="Upload a PDF document to classify"
+        help="Upload a PDF document to classify",
+        key=f"pdf_uploader_{st.session_state.file_uploader_key}"
     )
 
     if uploaded_file is not None:
+        # check if this is a different file than what we have stored
+        file_changed = (
+            st.session_state.uploaded_file is None or
+            st.session_state.filename != uploaded_file.name
+        )
+
+        # if file changed, clear all previous results
+        if file_changed:
+            st.session_state.extracted_text = None
+            st.session_state.classification_results = None
+            st.session_state.correctness_feedback = {}
+            st.session_state.results_submitted = False
+
         st.session_state.uploaded_file = uploaded_file
         st.session_state.filename = uploaded_file.name
 
-        # extract text
+        # extract text if no text exists (which will be True if file changed)
         if st.session_state.extracted_text is None:
             with st.spinner("Extracting text from PDF..."):
                 text = extract_text_from_pdf(uploaded_file)
