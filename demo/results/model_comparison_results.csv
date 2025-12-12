@@ -1,0 +1,57 @@
+Timestamp,File,Model,Prediction,Correct,Time (ms),Rank
+2025-12-12T10:13:14,You Won’t Be Able to Offload Your Holiday Shopping to AI Agents Anytime Soon.pdf,N-grams,Technology,✅,3,2
+2025-12-12T10:13:14,You Won’t Be Able to Offload Your Holiday Shopping to AI Agents Anytime Soon.pdf,Embeddings,Technology,✅,0,1
+2025-12-12T10:13:14,You Won’t Be Able to Offload Your Holiday Shopping to AI Agents Anytime Soon.pdf,LSTM,Technology,✅,9832,3
+2025-12-12T10:13:14,You Won’t Be Able to Offload Your Holiday Shopping to AI Agents Anytime Soon.pdf,Transformer,Business,❌,79,4
+2025-12-12T10:11:24,Turkish FA bans 102 players in betting probe.pdf,N-grams,Sports,✅,3,1
+2025-12-12T10:11:24,Turkish FA bans 102 players in betting probe.pdf,Embeddings,Entertainment,❌,3,4
+2025-12-12T10:11:24,Turkish FA bans 102 players in betting probe.pdf,LSTM,Sports,✅,9335,3
+2025-12-12T10:11:24,Turkish FA bans 102 players in betting probe.pdf,Transformer,Sports,✅,88,2
+2025-12-12T10:10:52,Trump administration appeals judge’s ruling barring troop deployment in Portland.pdf,N-grams,Politics,✅,2,1
+2025-12-12T10:10:52,Trump administration appeals judge’s ruling barring troop deployment in Portland.pdf,Embeddings,Politics,✅,2,2
+2025-12-12T10:10:52,Trump administration appeals judge’s ruling barring troop deployment in Portland.pdf,LSTM,Politics,✅,10093,3
+2025-12-12T10:10:52,Trump administration appeals judge’s ruling barring troop deployment in Portland.pdf,Transformer,Technology,❌,84,4
+2025-12-12T10:09:01,Their experiments on a chip revealed quantum physics in action.pdf,N-grams,Science,✅,4,2
+2025-12-12T10:09:01,Their experiments on a chip revealed quantum physics in action.pdf,Embeddings,Science,✅,3,1
+2025-12-12T10:09:01,Their experiments on a chip revealed quantum physics in action.pdf,LSTM,Science,✅,9893,4
+2025-12-12T10:09:01,Their experiments on a chip revealed quantum physics in action.pdf,Transformer,Science,✅,98,3
+2025-12-12T10:08:29,The unpopular and politically weak 90-year-old Palestinian leader struggles for a role in Gaza.pdf,N-grams,Politics,✅,2,1
+2025-12-12T10:08:29,The unpopular and politically weak 90-year-old Palestinian leader struggles for a role in Gaza.pdf,Embeddings,Politics,✅,5,2
+2025-12-12T10:08:29,The unpopular and politically weak 90-year-old Palestinian leader struggles for a role in Gaza.pdf,LSTM,Politics,✅,9911,4
+2025-12-12T10:08:29,The unpopular and politically weak 90-year-old Palestinian leader struggles for a role in Gaza.pdf,Transformer,Politics,✅,86,3
+2025-12-12T10:07:56,Sunderland roundup as Granit Xhaka relishes 'suffering' and stats suggest huge overperformance.pdf,N-grams,Sports,✅,3,1
+2025-12-12T10:07:56,Sunderland roundup as Granit Xhaka relishes 'suffering' and stats suggest huge overperformance.pdf,Embeddings,Entertainment,❌,2,4
+2025-12-12T10:07:56,Sunderland roundup as Granit Xhaka relishes 'suffering' and stats suggest huge overperformance.pdf,LSTM,Sports,✅,9560,3
+2025-12-12T10:07:56,Sunderland roundup as Granit Xhaka relishes 'suffering' and stats suggest huge overperformance.pdf,Transformer,Sports,✅,97,2
+2025-12-12T10:06:22,Phenoscaping Reveals Multimodal γδ T-cell Cytotoxicity as a Strategy to Overcome Cancer Cell–Mediated Immunomodulation.pdf,N-grams,Health,✅,8,2
+2025-12-12T10:06:22,Phenoscaping Reveals Multimodal γδ T-cell Cytotoxicity as a Strategy to Overcome Cancer Cell–Mediated Immunomodulation.pdf,Embeddings,Health,✅,7,1
+2025-12-12T10:06:22,Phenoscaping Reveals Multimodal γδ T-cell Cytotoxicity as a Strategy to Overcome Cancer Cell–Mediated Immunomodulation.pdf,LSTM,Health,✅,9983,4
+2025-12-12T10:06:22,Phenoscaping Reveals Multimodal γδ T-cell Cytotoxicity as a Strategy to Overcome Cancer Cell–Mediated Immunomodulation.pdf,Transformer,Health,✅,108,3
+2025-12-12T10:05:50,How Lady Gaga Found Herself Again - I Feel Lucky to Be Alive.pdf,N-grams,Entertainment,✅,15,2
+2025-12-12T10:05:50,How Lady Gaga Found Herself Again - I Feel Lucky to Be Alive.pdf,Embeddings,Entertainment,✅,11,1
+2025-12-12T10:05:50,How Lady Gaga Found Herself Again - I Feel Lucky to Be Alive.pdf,LSTM,Entertainment,✅,9829,4
+2025-12-12T10:05:50,How Lady Gaga Found Herself Again - I Feel Lucky to Be Alive.pdf,Transformer,Entertainment,✅,153,3
+2025-12-12T10:05:18,Google plans $40 billion Texas data center investment amid AI boom.pdf,N-grams,Business,✅,3,2
+2025-12-12T10:05:18,Google plans $40 billion Texas data center investment amid AI boom.pdf,Embeddings,Business,✅,1,1
+2025-12-12T10:05:18,Google plans $40 billion Texas data center investment amid AI boom.pdf,LSTM,Technology,❌,9843,4
+2025-12-12T10:05:18,Google plans $40 billion Texas data center investment amid AI boom.pdf,Transformer,Technology,❌,84,3
+2025-12-12T10:04:33,"As Fed hawks press their case, traders bet against December cut.pdf",N-grams,Business,✅,4,1
+2025-12-12T10:04:33,"As Fed hawks press their case, traders bet against December cut.pdf",Embeddings,Business,✅,11,2
+2025-12-12T10:04:33,"As Fed hawks press their case, traders bet against December cut.pdf",LSTM,Business,✅,10020,4
+2025-12-12T10:04:33,"As Fed hawks press their case, traders bet against December cut.pdf",Transformer,Business,✅,104,3
+2025-12-12T09:58:15,"IMF approves fresh, smaller $24 billion credit line for Mexico.pdf",N-grams,Business,✅,3,1
+2025-12-12T09:58:15,"IMF approves fresh, smaller $24 billion credit line for Mexico.pdf",Embeddings,Entertainment,❌,3,4
+2025-12-12T09:58:15,"IMF approves fresh, smaller $24 billion credit line for Mexico.pdf",LSTM,Business,✅,9689,3
+2025-12-12T09:58:15,"IMF approves fresh, smaller $24 billion credit line for Mexico.pdf",Transformer,Business,✅,78,2
+2025-12-12T09:57:41,Long-term hydrological behavior of an Alpine glacier.pdf,N-grams,Science,✅,29,1
+2025-12-12T09:57:41,Long-term hydrological behavior of an Alpine glacier.pdf,Embeddings,Health,❌,23,3
+2025-12-12T09:57:41,Long-term hydrological behavior of an Alpine glacier.pdf,LSTM,Technology,❌,10072,4
+2025-12-12T09:57:41,Long-term hydrological behavior of an Alpine glacier.pdf,Transformer,Science,✅,244,2
+2025-12-12T09:57:10,Moneyball.pdf,N-grams,Sports,❌,5,1
+2025-12-12T09:57:10,Moneyball.pdf,Embeddings,Sports,❌,5,2
+2025-12-12T09:57:10,Moneyball.pdf,LSTM,Sports,❌,10348,4
+2025-12-12T09:57:10,Moneyball.pdf,Transformer,Sports,❌,98,3
+2025-12-12T09:56:31,An Exploratory Study of Students with Depression in Undergraduate Research Experiences.pdf,N-grams,Health,✅,30,1
+2025-12-12T09:56:31,An Exploratory Study of Students with Depression in Undergraduate Research Experiences.pdf,Embeddings,Science,❌,33,3
+2025-12-12T09:56:31,An Exploratory Study of Students with Depression in Undergraduate Research Experiences.pdf,LSTM,Science,❌,9874,4
+2025-12-12T09:56:31,An Exploratory Study of Students with Depression in Undergraduate Research Experiences.pdf,Transformer,Health,✅,326,2
