@@ -50,21 +50,27 @@ PDFs that contain content from **one** of the seven topics:
 
 After you prepared the PDF's you want to test follow this flow:
 
+If you are too lazy to get your own PDFs matching the categories [here](https://github.com/Colinho22/text-analytics-project/tree/main/demo/demo-pdfs)
+
 ---
 
 ### 1: Upload a PDF document
 ![1_upload.png](images/1_upload.png)
 Drag and drop or browse and select **one** PDF at the time into the Model Comparison app.
+
 ---
 
 ### 2. Review Upload & Start Classification
 ![2_review_classify.png](images/2_review_classify.png)
+
 After the upload was successful, the text is extracted. In this example the PDF contains 3136 characters.
 Once this is done, you can start the classification by pressing the button "**Classify with All Models**".
+
 ---
 
 ### 3. View & Rate Results
 ![3_view_rate_results.png](images/3_view_rate_results.png)
+
 During the run, you can see the progress of the four models. After they are done, each of them output their
 classification as well as the time needed to come to their conclusion. Since the PDFs are not within the training data
 the models don't know if they are right or wrong. To grade their performance correctly, you need to select the checkboxes
@@ -73,10 +79,12 @@ the rankings of this round and add them to the historical comparison JSONL file.
 
 If you want to continue to test different PDFs you can start the flow all over again by pressing the "**🔁 Test Another Document**"
 button.
+
 ___
 
 ### 4. Overall Classification Analysis
 ![4_overall_analysis.png](images/4_overall_analysis.png)
+
 After testing all the PDFs you can switch to the "**📊 View Results**" tab at the top of the application. This then
 shows the point total of the each model, as well as their average speed, accuracy rate, and number of wins. The ranking
 of the models are determined by:
